@@ -1,6 +1,6 @@
 ## Hey guys! 👋
 
-I'm ** Virgat [AKA- Vishnu]**, a passionate developer. With a strong background in **DevOps**, **AWS**, and **Front-End Development**, I strive to create impactful solutions and enhance user experiences. Let's connect and build something amazing together! 🚀
+I'm ** Virgat [AKA- Virat]**, a passionate developer. With a strong background in **DevOps**, **AWS**, and **Front-End Development**, I strive to create impactful solutions and enhance user experiences. Let's connect and build something amazing together! 🚀
 
 ## Skills & Technologies
 
